@@ -11,6 +11,10 @@ c++ is an Object Oriented Programming Language (oops).
 
 Download GNU c/c++ compiler to compile the source code of the c/c++ program in your system.
 
+Before moving directly to the code follow this README file guidelience.
+
+1. [Simple C++ Program](https://github.com/maayon2521/cp/blob/master/Simple%20C%2B%2B%20Program.cpp) - In this Simple C++ program has been explained , like how it looks likw and how its structure flows. 
+
 
 
 
