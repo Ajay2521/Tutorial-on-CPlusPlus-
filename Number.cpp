@@ -24,9 +24,9 @@ short s = 12345 ;
 
 long l = 123456789 ;
 
-float f = 123.56789 ;
+float f = 123.456789 ;
 
-double d = 123.56789 ;
+double d = 12.3456789 ;
 
 /*printing the numbers by various data types of it.*/
 
