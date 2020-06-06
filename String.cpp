@@ -12,7 +12,9 @@
 
 /*By Default C++ compiler initialize a Null character at the end of every String . Therefore no woriies about the null character . Just have a note on it.*/
  
-/*In this program lets see some string functons used in C Programming*/
+/*In this program lets see some string functons used in C ++Programming*/
+
+/*In this we will see all C- Style Character String*/
 
 /*including preprocessor / headerfile  in the program*/
 
