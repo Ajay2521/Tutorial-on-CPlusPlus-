@@ -8,7 +8,7 @@
 
 /*Structure can be accessed using member access operator ( . ) which is also called as DOT operator*/
  
-/*In this program lets see a simple structure used in C++ Programming*/
+/*In this program lets see a structure to Function in C++ Programming*/
 
 /*Synatx to define a structure in c++ programming
 
