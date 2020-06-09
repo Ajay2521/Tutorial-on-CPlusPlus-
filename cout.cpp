@@ -6,6 +6,8 @@
 
 /*cout is said to be connected to the standard output device in our case the output device is display screen or monitor*/
 
+/*cout is an OSTREAM*/
+
 /*cout is used with a conjunction of insert operation , which is two less than symbol " << " */
 
 /*Synatx for cout is
