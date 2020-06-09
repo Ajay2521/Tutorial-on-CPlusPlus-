@@ -30,7 +30,7 @@ struct [structure tag]
 
 /*In pointer to structure we can able to access the member by using -> operator*/
 
-//*including preprocessor / headerfile  in the program*/
+/*including preprocessor / headerfile  in the program*/
 
 #include <iostream>
 
