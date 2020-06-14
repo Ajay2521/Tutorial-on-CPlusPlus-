@@ -48,7 +48,7 @@ void close( );
 
 /*In this program lets see how to OPEN and WRITE into an file.*/  
 
-/*writing into a file is just similar as displaying it to the screen using (<<) insertion operartion , but the only difference is ofstream or ifstream has been used instead of "cout".*/
+/*writing into a file is just similar as displaying it to the screen using (<<) insertion operartion , but the only difference is ofstream or fstream has been used instead of "cout".*/
 
 /*including preprocessor / headerfile  in the program*/
 
