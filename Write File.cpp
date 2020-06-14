@@ -76,7 +76,7 @@ int RollNo ;
 
 int MobileNo ;
 
-/*using ofstream opening file in writ only mode.*/
+/*using ofstream opening file in write only mode.*/
 
 ofstream output ;
 
