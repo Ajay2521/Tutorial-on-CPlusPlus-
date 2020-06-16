@@ -137,3 +137,20 @@ c++ is an Object Oriented Programming Language (oops).
 
 62. [Typedef in Structure](https://github.com/maayon2521/Tutorial-on-CPlusPlus-/blob/master/Typedef%20in%20Structure.cpp) - In this Typedef in Structure concept in C++ Program has been explained.
 
+63. [Classes and Object](https://github.com/maayon2521/Tutorial-on-CPlusPlus-/blob/master/Classes%20and%20Object.cpp) - In this Classes and Object concept in C++ Program has been explained.
+
+64. [Class Member Function](https://github.com/maayon2521/Tutorial-on-CPlusPlus-/blob/master/Class%20Member%20Function.cpp) - In this Class Member Function concept in C++ Program has been explained.
+
+65. [Public Class](https://github.com/maayon2521/Tutorial-on-CPlusPlus-/blob/master/Public%20Class.cpp) - In this Access Specifier / Access Modifier concept in C++ Program has been explained by using Public access specifier.
+
+66. [Private Class](https://github.com/maayon2521/Tutorial-on-CPlusPlus-/blob/master/Private%20Class.cpp) - In this Access Specifier / Access Modifier concept in C++ Program has been explained by using Private access specifier.
+
+67. [Protected](https://github.com/maayon2521/Tutorial-on-CPlusPlus-/blob/master/Protected%20Class.cpp) - In this Access Specifier / Access Modifier concept in C++ Program has been explained by using Protected access specifier.
+
+68. [Constructor](https://github.com/maayon2521/Tutorial-on-CPlusPlus-/blob/master/Constructor.cpp) - In this Constructor concept in C++ Program has been explained.
+
+69. [Parameterized Constructor](https://github.com/maayon2521/Tutorial-on-CPlusPlus-/blob/master/Parameterized%20Constructor.cpp) - In this Parameterized Constructor concept in C++ Program has been explained.
+
+70. [Destructor](https://github.com/maayon2521/Tutorial-on-CPlusPlus-/blob/master/Destructor.cpp) - In this Destructor concept in C++ Program has been explained.
+
+71. [Copy Constructor](https://github.com/maayon2521/Tutorial-on-CPlusPlus-/blob/master/Copy%20Constructor.cpp) - In this Copy Constructor concept in C++ Program has been explained.
