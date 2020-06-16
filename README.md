@@ -165,23 +165,36 @@ c++ is an Object Oriented Programming Language (oops).
 
 76. [Static Member of Class](https://github.com/maayon2521/Tutorial-on-CPlusPlus-/blob/master/Static%20Member%20of%20Class.cpp) - In this Static Member of Class in C++ Program has been explained.
 
+77. [Static Member Function of Class](https://github.com/maayon2521/Tutorial-on-CPlusPlus-/blob/master/Static%20Member%20Function.cpp) - In this Static Member Function of Class in C++ Program has been explained.
 
+78. [Inheritance](https://github.com/maayon2521/Tutorial-on-CPlusPlus-/blob/master/Inheritance.cpp) - In this Inheritance concept in C++ Program has been explained.
 
+79. [Multiple Inheritance](https://github.com/maayon2521/Tutorial-on-CPlusPlus-/blob/master/Multiple%20Inheritance.cpp) - In this Multiple Inheritance concept in C++ Program has been explained.
 
+80. [Function Overloading](https://github.com/maayon2521/Tutorial-on-CPlusPlus-/blob/master/Function%20Overloading.cpp) - In this Overloading concept in C++ Program has been explained by using Function Overloading.
 
+81. [Operator Overloading](https://github.com/maayon2521/Tutorial-on-CPlusPlus-/blob/master/Operator%20Overloading.cpp) - In this Overloading concept in C++ Program has been explained by using Operator Overloading.
 
+82. [Polymorphism](https://github.com/maayon2521/Tutorial-on-CPlusPlus-/blob/master/Polymorphism.cpp) - In this Polymorphism concept in C++ Program has been explained.
 
+83. [Data Abstraction](https://github.com/maayon2521/Tutorial-on-CPlusPlus-/blob/master/Data%20Abstraction.cpp) - In this Data Abstraction concept in C++ Program has been explained.
 
+84. [Data Encapsulation](https://github.com/maayon2521/Tutorial-on-CPlusPlus-/blob/master/Data%20Encapsulation.cpp) - In this Data Encapsulation concept in C++ Program has been explained.
 
+85. [Interfaces](https://github.com/maayon2521/Tutorial-on-CPlusPlus-/blob/master/Interfaces.cpp) - In this Interface concept in C++ Program has been explained.
 
+86. [Write File](https://github.com/maayon2521/Tutorial-on-CPlusPlus-/blob/master/Write%20File.cpp) - In this File concept in C++ has been explained by opening a file in Write only mode.
 
+87. [Read File](https://github.com/maayon2521/Tutorial-on-CPlusPlus-/blob/master/Read%20File.cpp) - In this File concept in C++ has been explained by opening a file in Read only mode.
 
+88. [Exception Handling](https://github.com/maayon2521/Tutorial-on-CPlusPlus-/blob/master/Exception%20Handling.cpp) - In this Exception Handling concept in C++ Program has been explained.
 
+89. [User Defined Exception](https://github.com/maayon2521/Tutorial-on-CPlusPlus-/blob/master/User%20Defined%20Exception.cpp) - In this User Defined Exception concept in C++ Program has been explained.
 
+90. [Dynamic Memory Allocation](https://github.com/maayon2521/Tutorial-on-CPlusPlus-/blob/master/Dynamic%20Memory.cpp) - In this Dynamic Memory Allocation concept in C++ Program has been explained.
 
+91. [Signal Handling](https://github.com/maayon2521/Tutorial-on-CPlusPlus-/blob/master/Signal%20Handling.cpp) - In this Signal Handling concept in C++ Program has been explained.
 
+THANKS A LOT FOR READING . 
 
-
-
-
-
+IF YOU HAVE ANY QUERIES OR SUGGESTIONS, PLEASE MAIL ME AT "ajayajutheaj@gmail.com".
