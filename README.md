@@ -154,3 +154,34 @@ c++ is an Object Oriented Programming Language (oops).
 70. [Destructor](https://github.com/maayon2521/Tutorial-on-CPlusPlus-/blob/master/Destructor.cpp) - In this Destructor concept in C++ Program has been explained.
 
 71. [Copy Constructor](https://github.com/maayon2521/Tutorial-on-CPlusPlus-/blob/master/Copy%20Constructor.cpp) - In this Copy Constructor concept in C++ Program has been explained.
+
+72. [Friend Function](https://github.com/maayon2521/Tutorial-on-CPlusPlus-/blob/master/Friend%20Function.cpp) - In this Friend Function concept in C++ Program has been explained.
+
+73. [Inline Function](https://github.com/maayon2521/Tutorial-on-CPlusPlus-/blob/master/Inline%20Function.cpp) - In this Inline Function concept in C++ Program has been explained.
+
+74. [this pointer](https://github.com/maayon2521/Tutorial-on-CPlusPlus-/blob/master/ThisPointer.exe) - In this "this pointer" concept in C++ Program has been explained.
+
+75. [Pointer to Class](https://github.com/maayon2521/Tutorial-on-CPlusPlus-/blob/master/Pointer%20to%20Class.cpp) - In this Pointer to Class concept in C++ Program has been explained.
+
+76. [Static Member of Class](https://github.com/maayon2521/Tutorial-on-CPlusPlus-/blob/master/Static%20Member%20of%20Class.cpp) - In this Static Member of Class in C++ Program has been explained.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
