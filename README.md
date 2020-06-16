@@ -85,13 +85,55 @@ c++ is an Object Oriented Programming Language (oops).
 
 36. [Math Operation](https://github.com/maayon2521/Tutorial-on-CPlusPlus-/blob/master/Math%20Operation.cpp) - In this Majorly used Math Operators which is avaliable in C++ Program has been explained.
 
+37. [Random Number](https://github.com/maayon2521/Tutorial-on-CPlusPlus-/blob/master/Random%20Number.cpp) - In this Math operation as been explained by generating Random Numbers.
 
+38. [Array](https://github.com/maayon2521/Tutorial-on-CPlusPlus-/blob/master/Array.cpp) - In this Array concep in C++ Program has been explained.
 
+39. [Multi Dimensional Array](https://github.com/maayon2521/Tutorial-on-CPlusPlus-/blob/master/Multi%20Dim%20Array.cpp) - In this Multi Dimensional Array concept in C++ Program has been explained by using 2D array.
 
+40. [Array to Pointer](https://github.com/maayon2521/Tutorial-on-CPlusPlus-/blob/master/Array%20to%20Pointer.cpp) - In this Array to Pointer concept in C++ concept has been explained.
 
+41. [Array to Function](https://github.com/maayon2521/Tutorial-on-CPlusPlus-/blob/master/Array%20to%20Function.cpp) - In this Array to a Function in C++ Program has been explained.
 
+42. [String](https://github.com/maayon2521/Tutorial-on-CPlusPlus-/blob/master/String.cpp) - In this String concept in C++ Program has been explained with help of some string functions.
 
+43. [Standard String](https://github.com/maayon2521/Tutorial-on-CPlusPlus-/blob/master/Standard%20String.cpp) - In this String concept in C++ Program has been explained by using the Standard C++ string library.
 
+44. [Pointer](https://github.com/maayon2521/Tutorial-on-CPlusPlus-/blob/master/Pointer.cpp) - In this Pointer Concept in C++ Program has been explained. 
 
+45. [Null Pointer](https://github.com/maayon2521/Tutorial-on-CPlusPlus-/blob/master/Null%20Pointer.cpp) - In this Null Pointer concept in C++ Program has been explained.
 
+46. [Pointer Increment](https://github.com/maayon2521/Tutorial-on-CPlusPlus-/blob/master/Pointer%20Increment.cpp) - In this Pointer Arithmetic concept in C++ Program has been explained using Increment Operation.
+
+47. [Pointer Decrement](https://github.com/maayon2521/Tutorial-on-CPlusPlus-/blob/master/Pointer%20Decrement.cpp) - In this Pointer Arithmetic concept in C++ Program has been explained using Decrement Operation.
+
+48. [Array of Pointer](https://github.com/maayon2521/Tutorial-on-CPlusPlus-/blob/master/Array%20of%20Pointer.cpp) - In this Array of pointer in C++ Program has been explained.
+
+49. [Pointer to Pointer](https://github.com/maayon2521/Tutorial-on-CPlusPlus-/blob/master/Pointer%20to%20Pointer.cpp) - In this Pointer to Pointer concept in c++ Program has been explained.
+
+50. [Pointer to Function](https://github.com/maayon2521/Tutorial-on-CPlusPlus-/blob/master/Pointer%20to%20Function.cpp) - In this Pointer to Function concept in C++ Program has been explained. 
+
+51. [Reference](https://github.com/maayon2521/Tutorial-on-CPlusPlus-/blob/master/Reference.cpp) - In this Reference concept in C++ Program has been explained.
+
+52. [Reference as Parameter](https://github.com/maayon2521/Tutorial-on-CPlusPlus-/blob/master/Reference%20as%20Parameter.cpp) - In this Reference as Parameter concept in C++ Program has been explained.
+
+53. [Reference as Return Value](https://github.com/maayon2521/Tutorial-on-CPlusPlus-/blob/master/Reference%20as%20Return%20Value.cpp) - In this Reference as Return Value concept in C++ Program has been explained.
+ 
+54. [Date and Time](https://github.com/maayon2521/Tutorial-on-CPlusPlus-/blob/master/Date%20Time.cpp) - In this Date and Time concept in C++ Program has been explained. 
+
+55. [cout](https://github.com/maayon2521/Tutorial-on-CPlusPlus-/blob/master/cout.cpp) - In this input and output concept in C++ Program has been explained using cout function.
+
+56. [cin](https://github.com/maayon2521/Tutorial-on-CPlusPlus-/blob/master/cin.cpp) - In this input and output concept in C++ Program has been explained using cin function.
+
+57. [cerr](https://github.com/maayon2521/Tutorial-on-CPlusPlus-/blob/master/cerr.cpp) - In this input and output concept in C++ Program has been explained using cerr function.
+
+58. [clog](https://github.com/maayon2521/Tutorial-on-CPlusPlus-/blob/master/clog.cpp) - In this input and output concept in C++ Program has been explained using clog function.
+
+59. [Structure](https://github.com/maayon2521/Tutorial-on-CPlusPlus-/blob/master/Structure.cpp) - In this Structure concept in C++ Program has been explained.
+
+60. [Structure to Function](https://github.com/maayon2521/Tutorial-on-CPlusPlus-/blob/master/Structure%20to%20Function.cpp) - In this Structure to Function concept in C++ Program has been explained.
+
+61. [Pointer to Structure](https://github.com/maayon2521/Tutorial-on-CPlusPlus-/blob/master/Pointer%20to%20Structure.cpp) - In this Pointer to Structure concept in C++ Program has been explained.
+
+62. [Typedef in Structure](https://github.com/maayon2521/Tutorial-on-CPlusPlus-/blob/master/Typedef%20in%20Structure.cpp) - In this Typedef in Structure concept in C++ Program has been explained.
 
